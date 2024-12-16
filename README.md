@@ -4,7 +4,8 @@ Descripción General
 
 El sistema de inventario desarrollado para la tienda VideoGames es una plataforma web que permite la gestión eficiente de videojuegos y su disponibilidad en el inventario. Proporciona funcionalidades específicas para el control de stock, la categorización de productos por género, y la administración de usuarios según roles, asegurando una experiencia optimizada tanto para los empleados como para los administradores.
 
-Colaboradores
+Colaboradores:
+
 Eliseo Chavez Trujillo
 https://github.com/EChavezDevs
 
